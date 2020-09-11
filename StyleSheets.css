@@ -106,16 +106,10 @@ body{
 .projectBanners{
 	text-align: center;
 	margin:20px;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 175px;
+	margin-right: 175px;
 	padding: 20px;
 	border-radius:12px;
 	box-shadow: 10px 10px 5px grey;
 	color:black;
-}
-#image{
-	text-align: center;
-	width: 150px;
-	height: 150px;
-	z-index: -1;
 }
